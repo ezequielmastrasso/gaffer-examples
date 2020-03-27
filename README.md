@@ -1,33 +1,20 @@
 # gaffer-examples
 Gaffer Production Examples
 
+
+[Setup](#Setup)  
 [Clasroom](#Clasroom)  
+[Barbershop](#Barbershop)  
 
-# Example Boxes
-##### InteractiveRenderOptions
-##### CenterToWorld
-##### CameraFrame
-##### Metadata
-##### SurfacingSets
-##### Turntable
-##### Lights 
-##### RenderLayers
-##### Viewport Visualization
+## Setup
+Set the project:gaffer-examples Variable to the root folder of this examples.
 
-# Asset Workflow Example
-##### Turntable Render tasks, and Comp
-##### Contexts render settings
+<img src="docs/gaffer-examples_variables.png" alt="EZSurfacing Tools" style="" />
 
-# Shot Workflow Example
-##### Sequence/Shot lighting and overrides
-##### Wedges
-##### Render Layers with wedges and deep slapcomp
-##### Contexts render settings, shots, and sequence
-
-# Clasroom
-
+## Clasroom
+wip
 <img width="100%" src="docs/gaffer-examples_classroom.png" alt="EZSurfacing Tools" style="" />
 
-#### After opening
-Set the project:gaffer-examples Variable to the root folder of this examples.
-<img width="100%" src="docs/gaffer-examples_variables.png" alt="EZSurfacing Tools" style="" />
+## Barbershop
+wip
+<img width="100%" src="docs/gaffer-examples_barbershop.png" alt="EZSurfacing Tools" style="" />

@@ -17,7 +17,7 @@ Work In Progress
 
 ## Barbershop
 Work In Progress
-<img width="100%" src="docs/gaffer-examples_barbershop.png" alt="EZSurfacing Tools" style="" />
+<img width="100%" src="docs/gaffer-examples_barbershop-wip.png" alt="EZSurfacing Tools" style="" />
 
 ## Credits
 
@@ -25,11 +25,9 @@ Work In Progress
 [CC0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ##### Clasroom 
-Derivative of Blender Classroom By Christophe Seux, Licenced under [CC0](https://www.blender.org/download/demo-files/)
+Blender Classroom By Christophe Seux, Licenced under [CC0](https://www.blender.org/download/demo-files/)
 
 ##### Barbershop
-Derivative of Blender Barbershop from "Agent 327", licenced under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+Blender Barbershop from "Agent 327", licenced under [CC-BY-ND](https://cloud.blender.org/p/agent-327/about)
 ##### PBR Textures
 PBR textures by [www.cc0textures.com](https://www.cc0textures.com), licenced under [CC0](https://help.cc0textures.com/doku.php?id=website:license)
-
-

@@ -1,0 +1,47 @@
+{
+    "RenderManAsset": {
+        "usedNodeTypes": [],
+        "version": 1.0,
+        "asset": {
+            "envMap": {
+                "specs": {
+                    "description": "",
+                    "filename": "Env_StinsonBeach_1236PM_2k.16.tex",
+                    "originalBitDepth": 32,
+                    "originalFormat": "OpenEXR",
+                    "displayWindowSize": [
+                        2048,
+                        1024
+                    ],
+                    "originalSize": [
+                        2048,
+                        1024
+                    ],
+                    "displayWindowOrigin": [
+                        0,
+                        0
+                    ]
+                },
+                "dependencies": [
+                    "Env_StinsonBeach_1236PM_2k.16.tex"
+                ],
+                "compatibility": {
+                    "hostNodeTypes": [],
+                    "host": {
+                        "version": "2017.0",
+                        "name": "Maya"
+                    },
+                    "renderer": {
+                        "version": "21.1"
+                    }
+                },
+                "metadata": {
+                    "author": "lpedersen",
+                    "version": 0,
+                    "created": "2016-10-11 19:16:54"
+                }
+            }
+        },
+        "label": "Stinson Beach 1236 PM"
+    }
+}

@@ -1,6 +1,6 @@
 # Gaffer Examples.   
 
-    Last Updated: 29/04/2020
+    Last Updated: 30/04/2020
 
 ***Note: UVs/Surfacing/Lighting is in WIP***
 
@@ -23,6 +23,8 @@ Alternatively you can run `expand-assets.sh` to unzip it using `file-roller`.
 `source gaffer-examples.sh` before runing gaffer.  
 Alternatively set those environments in your system.
 
+#### Gaffer Version
+Requires 0.57.1.0 or above.
 
 ## Templates
     Note on GPU render: Ai User Data String and Trace Sets are not supported
@@ -95,7 +97,7 @@ HDR under /resources/hdri/hdrihaven by [www.hdrihaven.com](https://hdrihaven.com
 Terms of Use: This work is licenced under [CC0](https://hdrihaven.com/p/licence.php)
 
 ###### zbyg
-HDR under /resources/hdri/zbyg by [zbyg](https://hdrihaven.com/)   
+HDR under /resources/hdri/zbyg by [zbyg](https://www.deviantart.com/zbyg/art/HDRi-Pack-2-103458406)   
 Terms of Use: This work is licenced under [CC BY](https://creativecommons.org/licences/by/3.0/)
 
 ###### Icons
@@ -136,9 +138,6 @@ Certain things -such as asset surfacing, and lighting updates- will need to be h
 
 [Fork, clone, branch, work, push, pull request as usual.](https://help.github.com/en/enterprise/2.16/user/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)  
 
-        Not everybody is familiar with licences, in this case specially cc0 and its derivates.
-        If you have concerns or questions about this subject, contact us.
-
 #### Style guide
 [Examples style guide](https://github.com/GafferHQ/gaffer/wiki/Examples-Style-Guide)
 
@@ -164,4 +163,7 @@ Attributions -although not required by this licence- will be given in this repos
 * Files from external other sources need to be compatible with CC0 licence or its derivates. See the [licences](#licences) section.  
 This includes -but is not limited to- textures, `.hdr` files, `.grf` files, python scripts, Gaffer Nodes, etc.
 * Licences should be listed and specified for all external sources following their specific requirements.
-* Attributions should be given, even in the case of CC0 licenced material that do not required them.
+* Attributions should be given, even in the case of CC0 licenced material that do not required them.  
+
+        Not everybody is familiar with licences, in this case specially cc0 and its derivates.
+        If you have concerns or questions about this subject, contact us.

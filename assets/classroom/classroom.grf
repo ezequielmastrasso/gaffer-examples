@@ -4217,7 +4217,7 @@ __children["classroom_looks"]["deskMaterials"]["ShaderAssignment7"]["__uiPositio
 __children["classroom_looks"]["deskMaterials"]["UnionFilter2"]["in"][0].setInput( __children["classroom_looks"]["deskMaterials"]["SetFilter"]["out"] )
 __children["classroom_looks"]["deskMaterials"]["UnionFilter2"]["__uiPosition"].setValue( imath.V2f( 183.226639, 104.745682 ) )
 __children["classroom_looks"]["deskMaterials"]["ImageReader1"]["fileName"].setInput( __children["classroom_looks"]["deskMaterials"]["base_brownWood"]["parameters"]["filename"] )
-__children["classroom_looks"]["deskMaterials"]["ImageReader1"]["colorSpace"].setValue( 'rendering' )
+__children["classroom_looks"]["deskMaterials"]["ImageReader1"]["colorSpace"].setValue( 'default' )
 __children["classroom_looks"]["deskMaterials"]["ImageReader1"]["__uiPosition"].setValue( imath.V2f( 137.396896, 104.341446 ) )
 __children["classroom_looks"]["deskMaterials"]["ShaderAssignment8"]["in"].setInput( __children["classroom_looks"]["deskMaterials"]["ShaderAssignment9"]["out"] )
 __children["classroom_looks"]["deskMaterials"]["ShaderAssignment8"]["filter"].setInput( __children["classroom_looks"]["deskMaterials"]["SetFilter3"]["out"] )

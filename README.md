@@ -1,6 +1,6 @@
 # Gaffer Examples.   
 
-    Last Updated: 30/04/2020
+    Last Updated: 10/05/2020
 
 ***Note: UVs/Surfacing/Lighting is in WIP***
 
@@ -11,8 +11,16 @@
 [&nbsp;&nbsp;&nbsp;&nbsp;Shots Template](#Shots-Template)  
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barbershop](#Barbershop)  
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clasroom](#Clasroom)  
+[&nbsp;&nbsp;&nbsp;&nbsp;Boxes](#Boxes)  
 [Contribute! Help wanted](#Contribute)  
 [licences](#licences)  
+
+```
+This repository shows  a vanilla gaffer, used for look-dev,
+turntabling assets, and multi shot lighting.
+Everything here is based on gaffer files shared in:
+https://www.gafferhq.org/community/
+```
 
 ## Setup 
 #### Before you start
@@ -35,7 +43,7 @@ Requires 0.57.1.0 or above.
 ### Assets Template
 <img width="100%" src="docs/gaffer-examples_assetTemplate.png" alt="EZSurfacing Tools" style="" />
 
-    Asset Template, with lightrigs wedge Render, metadata overlay and ContactSheet.
+    Asset Template, with lightrigs Render, metadata overlay and ContactSheet.
 
 ### Shots Template
 
@@ -54,6 +62,21 @@ Requires 0.57.1.0 or above.
 #### Clasroom 
 ##### Sequence 3 & 4
 <img width="49.5%" src="assets/resources/icons/SEQ0003_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/resources/icons/SEQ0003_SHO002.png" alt="EZSurfacing Tools" style="" /> <img width="49.5%" src="assets/resources/icons/SEQ0003_SHO003.png" alt="EZSurfacing Tools" style="" /> <img width="49.5%" src="assets/resources/icons/SEQ0004_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/resources/icons/SEQ0004_SHO002.png" alt="EZSurfacing Tools" style="" />
+
+### Boxes
+
+#### LDTRender
+A node to setup the render file name, version, sequence/shot/layer contexts and frame range.
+The rendered aovs are read back using a CollectImage node, and automatically merged into a single exr.  
+The node outputs the merged exr back to the graph for viewing.  
+
+In a vanilla gaffer, with an unmodified `${project:rootDirectory}` find the files here:   
+```
+~/gaffer/projects/default/renders/gaffer-examples
+```
+
+<img width="99%" src="docs/gaffer-examples_LDTRender.png" alt="EZSurfacing Tools" style="" />
+
 
 
 ## Licences

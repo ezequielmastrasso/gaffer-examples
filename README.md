@@ -1,8 +1,9 @@
 # Gaffer Examples.   
 
-    Last Updated: 10/05/2020
+    Last Updated: 31/08/2020
 
-***Note: UVs/Surfacing/Lighting is in WIP***
+***Note: Requires [github/ezequielmastrasso/LDTGaffer](https://github.com/ezequielmastrasso/LDTGaffer)***
+***Note2: UVs/Surfacing/Lighting is in WIP***
 
 
 [Setup](#Setup)  

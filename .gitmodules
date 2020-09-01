@@ -1,0 +1,3 @@
+[submodule "LDTGaffer"]
+	path = LDTGaffer
+	url = https://github.com/ezequielmastrasso/LDTGaffer.git

@@ -1,8 +1,6 @@
 # Gaffer Examples.   
 
-    Last Updated: 31/08/2020
-
-***Note: Requires [github/ezequielmastrasso/LDTGaffer](https://github.com/ezequielmastrasso/LDTGaffer)***
+    Last Updated: 01/09/2020
 ***Note2: UVs/Surfacing/Lighting is in WIP***
 
 
@@ -31,6 +29,10 @@ Alternatively you can run `expand-assets.sh` to unzip it using `file-roller`.
 #### Enviroment Variables
 `source gaffer-examples.sh` before runing gaffer.  
 Alternatively set those environments in your system.
+If you would rather have the LDTGaffer repo in a different location:
+Comment the line "source LDTGaffer/LDTGaffer.sh", and source both .sh from the
+repositories independently before running gaffer.
+
 
 #### Gaffer Version
 Requires 0.57.1.0 or above.

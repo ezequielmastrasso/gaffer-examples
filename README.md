@@ -10,13 +10,10 @@
 [&nbsp;&nbsp;&nbsp;&nbsp;Shots Template](#Shots-Template)  
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barbershop](#Barbershop)  
 [&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clasroom](#Clasroom)  
-[&nbsp;&nbsp;&nbsp;&nbsp;Boxes](#Boxes)  
 [Contribute! Help wanted](#Contribute)  
 [licences](#licences)  
 
 ```
-This repository shows  a vanilla gaffer, used for look-dev,
-turntabling assets, and multi shot lighting.
 Everything here is based on gaffer files shared in:
 https://www.gafferhq.org/community/
 ```
@@ -27,15 +24,17 @@ Unzip the barbershop alembic file `/barbershop/abc/babershop_interior.abc.tar.7z
 Alternatively you can run `expand-assets.sh` to unzip it using `file-roller`.
 
 #### Enviroment Variables
-`source gaffer-examples.sh` before runing gaffer.  
-Alternatively set those environments in your system.
-If you would rather have the LDTGaffer repo in a different location:
-Comment the line "source LDTGaffer/LDTGaffer.sh", and source both .sh from the
-repositories independently before running gaffer.
+`source gaffer-examples.sh` before running gaffer.  
+Alternatively set those environments in your system manually.
 
+#### Dependencies
+
+[LDTGaffer](https://github.com/ezequielmastrasso/LDTGaffer) is required for this examples.   
+If you would rather have the LDTGaffer repo in a different location:   
+Comment the line "source LDTGaffer/LDTGaffer.sh", and source both .sh from the repositories before running gaffer.
 
 #### Gaffer Version
-Requires 0.57.1.0 or above.
+Requires 0.58.0.1 or above.
 
 ## Templates
     Note on GPU render: Ai User Data String and Trace Sets are not supported
@@ -65,21 +64,6 @@ Requires 0.57.1.0 or above.
 #### Clasroom 
 ##### Sequence 3 & 4
 <img width="49.5%" src="assets/resources/icons/SEQ0003_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/resources/icons/SEQ0003_SHO002.png" alt="EZSurfacing Tools" style="" /> <img width="49.5%" src="assets/resources/icons/SEQ0003_SHO003.png" alt="EZSurfacing Tools" style="" /> <img width="49.5%" src="assets/resources/icons/SEQ0004_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/resources/icons/SEQ0004_SHO002.png" alt="EZSurfacing Tools" style="" />
-
-### Boxes
-
-#### LDTRender
-A node to setup the render file name, version, sequence/shot/layer contexts and frame range.
-The rendered aovs are read back using a CollectImage node, and automatically merged into a single exr.  
-The node outputs the merged exr back to the graph for viewing.  
-
-In a vanilla gaffer, with an unmodified `${project:rootDirectory}` find the files here:   
-```
-~/gaffer/projects/default/renders/gaffer-examples
-```
-
-<img width="99%" src="docs/gaffer-examples_LDTRender.png" alt="EZSurfacing Tools" style="" />
-
 
 
 ## Licences

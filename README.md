@@ -1,7 +1,7 @@
 # Gaffer Examples.   
 
-    Last Updated: 01/09/2020
-***Note2: UVs/Surfacing/Lighting is in WIP***
+    Last Updated: 09/09/2020
+***Note: UVs/Surfacing/Lighting is in WIP***
 
 
 [Setup](#Setup)  
@@ -34,7 +34,7 @@ If you would rather have the LDTGaffer repo in a different location:
 Comment the line "source LDTGaffer/LDTGaffer.sh", and source both .sh from the repositories before running gaffer.
 
 #### Gaffer Version
-Requires 0.58.0.1 or above.
+Requires 0.58.1.0 or above.
 
 ## Templates
     Note on GPU render: Ai User Data String and Trace Sets are not supported

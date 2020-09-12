@@ -59,11 +59,11 @@ Requires 0.58.1.0 or above.
 
 #### Barbershop
 ##### Sequence 1 & 2
-<img width="49%" src="assets/resources/SEQ0001_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/resources/SEQ0001_SHO002.png" alt="EZSurfacing Tools" style="" /><img width="49%" src="assets/resources/SEQ0001_SHO003.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/resources/SEQ0002_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/resources/SEQ0002_SHO002.png" alt="EZSurfacing Tools" style="" /> <img width="49.5%" src="assets/resources/SEQ0002_SHO003.png" alt="EZSurfacing Tools" style="" />  
+<img width="49%" src="assets/icons/SEQ0001_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0001_SHO002.png" alt="EZSurfacing Tools" style="" /><img width="49%" src="assets/icons/SEQ0001_SHO003.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0002_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0002_SHO002.png" alt="EZSurfacing Tools" style="" /> <img width="49.5%" src="assets/icons/SEQ0002_SHO003.png" alt="EZSurfacing Tools" style="" />  
 
 #### Clasroom 
 ##### Sequence 3 & 4
-<img width="49.5%" src="assets/resources/SEQ0003_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/resources/SEQ0003_SHO002.png" alt="EZSurfacing Tools" style="" /> <img width="49.5%" src="assets/resources/SEQ0003_SHO003.png" alt="EZSurfacing Tools" style="" /> <img width="49.5%" src="assets/resources/SEQ0004_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/resources/SEQ0004_SHO002.png" alt="EZSurfacing Tools" style="" />
+<img width="49.5%" src="assets/icons/SEQ0003_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0003_SHO002.png" alt="EZSurfacing Tools" style="" /> <img width="49.5%" src="assets/icons/SEQ0003_SHO003.png" alt="EZSurfacing Tools" style="" /> <img width="49.5%" src="assets/icons/SEQ0004_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0004_SHO002.png" alt="EZSurfacing Tools" style="" />
 
 
 ## Licences

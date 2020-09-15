@@ -13,6 +13,8 @@
 [Contribute! Help wanted](#Contribute)  
 [licences](#licences)  
 
+```Requires Gaffer 0.58.1.0```
+
 ###### All tools presented here are based solely on examples shared on the [Gaffer community mailing list](https://www.gafferhq.org/community/)
 
 ## Setup 

@@ -1,6 +1,6 @@
 # Gaffer Examples.   
 
-    Last Updated: 09/09/2020
+    Last Updated: 15/09/2020
 ***Note: UVs/Surfacing/Lighting is in WIP***
 
 
@@ -13,10 +13,7 @@
 [Contribute! Help wanted](#Contribute)  
 [licences](#licences)  
 
-```
-Everything here is based on gaffer files shared in:
-https://www.gafferhq.org/community/
-```
+###### All tools presented here are based solely on examples shared on the [Gaffer community mailing list](https://www.gafferhq.org/community/)
 
 ## Setup 
 #### Before you start

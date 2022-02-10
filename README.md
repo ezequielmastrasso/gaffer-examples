@@ -16,7 +16,7 @@
 ###### All tools presented here are based solely on examples shared on the [Gaffer community mailing list](https://www.gafferhq.org/community/)
 
 #### Gaffer Version
-Requires 0.61.2.0 or above./classroom
+Requires 0.61.2.0 or above.
 
 ## Setup 
 #### Before you start
@@ -58,10 +58,14 @@ Comment the line "source LDTGaffer/LDTGaffer.sh", and source both .sh from the r
     Note: UVs/Surfacing/Lighting is in WIP. No compositing, beauty pass only.
 
 #### Barbershop
-<img width="49%" src="assets/icons/SEQ0001_SHO002.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0002_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0002_SHO003.png" alt="EZSurfacing Tools" style="" />  
+<img width="98.5%" src="assets/icons/SEQ0001_SHO002.png" alt="EZSurfacing Tools" style="" />   
+
+<img width="49%" src="assets/icons/SEQ0002_SHO001.png" alt="EZSurfacing Tools" style="" /><img width="49%" src="assets/icons/SEQ0002_SHO003.png" alt="EZSurfacing Tools" style="" />   
 
 #### Clasroom 
-<img width="49%" src="assets/icons/SEQ0003_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0003_SHO002.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0004_SHO001.png" alt="EZSurfacing Tools" style="" /> 
+<img width="98.5%" src="assets/icons/SEQ0003_SHO001.png" alt="EZSurfacing Tools" style="" />   
+
+<img width="49%" src="assets/icons/SEQ0003_SHO002.png" alt="EZSurfacing Tools" style="" /><img width="49%" src="assets/icons/SEQ0004_SHO001.png" alt="EZSurfacing Tools" style="" />   
 
 
 ## Licences

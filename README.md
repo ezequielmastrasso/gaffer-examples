@@ -1,6 +1,6 @@
 # Gaffer Examples.   
 
-    Last Updated: 15/09/2020
+    Last Updated: 10/02/2021
 ***Note: UVs/Surfacing/Lighting is in WIP***
 
 
@@ -13,13 +13,14 @@
 [Contribute! Help wanted](#Contribute)  
 [licences](#licences)  
 
-```Requires Gaffer 0.58.1.0```
-
 ###### All tools presented here are based solely on examples shared on the [Gaffer community mailing list](https://www.gafferhq.org/community/)
+
+#### Gaffer Version
+Requires 0.61.2.0 or above./classroom
 
 ## Setup 
 #### Before you start
-Unzip the barbershop alembic file `/barbershop/abc/babershop_interior.abc.tar.7z`.   
+Unzip the barbershop alembic file `/barbershop/abc/babershop_interior.7z`.   
 Alternatively you can run `expand-assets.sh` to unzip it using `file-roller`.
 
 #### Enviroment Variables
@@ -28,12 +29,12 @@ Alternatively set those environments in your system manually.
 
 #### Dependencies
 
+[OIDN](https://https://www.openimagedenoise.org/) is optionally required for the LDTBatchRender node.   
+
 [LDTGaffer](https://github.com/ezequielmastrasso/LDTGaffer) is required for this examples.   
 If you would rather have the LDTGaffer repo in a different location:   
 Comment the line "source LDTGaffer/LDTGaffer.sh", and source both .sh from the repositories before running gaffer.
 
-#### Gaffer Version
-Requires 0.58.1.0 or above.
 
 ## Templates
     Note on GPU render: Ai User Data String and Trace Sets are not supported
@@ -57,12 +58,10 @@ Requires 0.58.1.0 or above.
     Note: UVs/Surfacing/Lighting is in WIP. No compositing, beauty pass only.
 
 #### Barbershop
-##### Sequence 1 & 2
-<img width="49%" src="assets/icons/SEQ0001_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0001_SHO002.png" alt="EZSurfacing Tools" style="" /><img width="49%" src="assets/icons/SEQ0001_SHO003.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0002_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0002_SHO002.png" alt="EZSurfacing Tools" style="" /> <img width="49.5%" src="assets/icons/SEQ0002_SHO003.png" alt="EZSurfacing Tools" style="" />  
+<img width="49%" src="assets/icons/SEQ0001_SHO002.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0002_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0002_SHO003.png" alt="EZSurfacing Tools" style="" />  
 
 #### Clasroom 
-##### Sequence 3 & 4
-<img width="49.5%" src="assets/icons/SEQ0003_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0003_SHO002.png" alt="EZSurfacing Tools" style="" /> <img width="49.5%" src="assets/icons/SEQ0003_SHO003.png" alt="EZSurfacing Tools" style="" /> <img width="49.5%" src="assets/icons/SEQ0004_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0004_SHO002.png" alt="EZSurfacing Tools" style="" />
+<img width="49%" src="assets/icons/SEQ0003_SHO001.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0003_SHO002.png" alt="EZSurfacing Tools" style="" /> <img width="49%" src="assets/icons/SEQ0004_SHO001.png" alt="EZSurfacing Tools" style="" /> 
 
 
 ## Licences
@@ -94,6 +93,10 @@ Terms of Use: This work is licenced under [CC0](https://help.cc0textures.com/dok
 ###### 3dtextures me
 PBR textures by [https://3dtextures.me/](https://3dtextures.me/)   
 Terms of Use: This work is licenced under [CC0](https://3dtextures.me/about/)
+
+###### polyhaven
+PBR textures by [https://polyhaven.com](https://polyhaven.com)   
+Terms of Use: This work is licenced under [CC0](https://polyhaven.com/license)
 
 ##### HDRIs
 ###### Pixar Renderman Stinson Beach
